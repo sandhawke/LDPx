@@ -111,9 +111,9 @@ error conditions, to the extent required by the specification*
 ## Related Test Suites
 
 *Describe other related test suites which can be run to further test an
-implemention, such a media-type-specific tests*
+implementation, such a media-type-specific tests*
 
-## Issues
+# Issues
 
 *Enumerate any challenging design issues and describe how they were
 settled, or their current state if not settled.  Link elsewhere for
